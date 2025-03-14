@@ -1,0 +1,1 @@
+{"name":"Local: dependencyInversion","url":"/Users/piyushpar/Desktop/lld/dependencyInversion.cpp","tests":[{"id":1741979854156,"input":"1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/piyushpar/Desktop/lld/dependencyInversion.cpp","group":"local","local":true}
